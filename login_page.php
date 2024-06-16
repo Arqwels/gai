@@ -30,7 +30,7 @@
 
         <p class="error__form none"></p>
 
-        <button type="submit" class="login__btn">Зарегистрироваться</button>
+        <button type="submit" class="login__btn">Авторизироваться</button>
       </form>
 
       <p class="register">Ещё не зарегистрирован? <a href="register_page.php">Зарегистрироваться!</a></p>
